@@ -2,6 +2,9 @@
 
 This is Azure Kubernetes Service team account
 
+![Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=black)
+
+
 <!--
 **AKSTEAM-ITSPROUT/AKSTEAM-ITSPROUT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
