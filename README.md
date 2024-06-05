@@ -3,6 +3,8 @@
 This is Azure Kubernetes Service team account
 
 ![Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=black)
+![Static Badge](https://img.shields.io/badge/azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=black)
+
 
 
 <!--
